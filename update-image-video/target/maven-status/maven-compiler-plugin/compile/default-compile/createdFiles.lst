@@ -1,9 +1,0 @@
-com\weirdo\config\CorsConfig.class
-com\weirdo\service\UploadImageVideoService.class
-com\weirdo\UploadImageVideoApplication.class
-com\weirdo\config\WebAppConfig.class
-com\weirdo\response\BaseResponse.class
-com\weirdo\controller\MyfileCOntroller.class
-com\weirdo\model\UploadImageVideo.class
-com\weirdo\dao\UploadImageVideoDao.class
-com\weirdo\response\StatusCode.class
